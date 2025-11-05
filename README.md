@@ -1,5 +1,8 @@
 ## Hola gente 👋
 
+## Study --> Check
+## Sleep --> Check
+## Code --> Every Second
 <!--
 **Max5976/Max5976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

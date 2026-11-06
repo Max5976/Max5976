@@ -47,7 +47,9 @@ Me gusta trabajar tanto en el desarrollo frontend como backend, diseñar interfa
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=Max5976&theme=tokyonight" width="49%" />
-  
+</p>
+
+<p align="center">
   <img src="https://ghstats.dev/api/langs?username=Max5976&theme=tokyonight&layout=bar&max_langs=8" width="49%" />
 </p>
 
@@ -69,12 +71,6 @@ Me gusta trabajar tanto en el desarrollo frontend como backend, diseñar interfa
 
 <p align="center">
   <img width="95%" src="https://ghstats.dev/api/sparkline?username=Max5976&days=90&width=800&height=180&hide_border=true" />
-</p>
-
-### 👀 Visitas al perfil
-
-<p align="center">
-  <img src="https://ghstats.dev/api/visits?username=Max5976&style=for-the-badge" />
 </p>
 
 ---

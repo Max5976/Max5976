@@ -46,15 +46,41 @@ Me gusta trabajar tanto en el desarrollo frontend como backend, diseñar interfa
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Max5976&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max5976&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=Max5976&theme=tokyonight" width="49%" />
+  <img src="https://ghstats.dev/api/langs?username=Max5976&theme=tokyonight&layout=bar&max_langs=8" width="49%" />
+</p>
+
+### 🔥 Actividad y contribuciones
+
+<p align="center">
+  <img src="https://ghstats.dev/api/mini?username=Max5976&metric=commits&style=for-the-badge" />
+  <img src="https://ghstats.dev/api/mini?username=Max5976&metric=prs&style=for-the-badge" />
+  <img src="https://ghstats.dev/api/mini?username=Max5976&metric=issues&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Max5976&theme=tokyonight&hide_border=true" />
+  <img src="https://ghstats.dev/api/mini?username=Max5976&metric=stars&style=for-the-badge" />
+  <img src="https://ghstats.dev/api/mini?username=Max5976&metric=followers&style=for-the-badge" />
+  <img src="https://ghstats.dev/api/mini?username=Max5976&metric=streak&style=for-the-badge" />
+</p>
+
+### 📈 Evolución de actividad
+
+<p align="center">
+  <img width="95%" src="https://ghstats.dev/api/sparkline?username=Max5976&days=90&width=800&height=180&hide_border=true" />
+</p>
+
+### 👀 Visitas al perfil
+
+<p align="center">
+  <img src="https://ghstats.dev/api/visits?username=Max5976&style=for-the-badge" />
 </p>
 
 ---
+
+<p align="center">
+  <i>Los números reflejan la actividad pública disponible de GitHub y se actualizan automáticamente.</i>
+</p>
 
 ## 🌐 Contacto
 

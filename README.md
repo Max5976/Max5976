@@ -1,8 +1,8 @@
 # ¡Hola! Soy Max 👋
 
-### Estudiante de Desarrollo de Software | Desarrollo Web y Mobile
+### Estudiante de Informática en ORT Argentina | Desarrollo Web y Mobile
 
-Soy estudiante de desarrollo de software de Argentina, interesado en crear aplicaciones, explorar nuevas tecnologías y transformar ideas en soluciones reales.
+Soy estudiante de Informática, interesado en crear aplicaciones, explorar nuevas tecnologías y transformar ideas en soluciones reales.
 
 Me gusta trabajar tanto en el desarrollo frontend como backend, diseñar interfaces intuitivas, desarrollar APIs y trabajar con bases de datos.
 

@@ -47,9 +47,6 @@ Me gusta trabajar tanto en el desarrollo frontend como backend, diseñar interfa
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=Max5976&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://ghstats.dev/api/langs?username=Max5976&theme=tokyonight&layout=bar&max_langs=8" width="49%" />
 </p>
 
